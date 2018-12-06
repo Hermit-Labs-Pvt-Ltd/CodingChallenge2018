@@ -8,6 +8,10 @@ You need to help Unicorn ventures with the decision. They usually invest in B2C 
 Evaluation Metric:
 
 Root Mean Squre Error (RMSE) is the evaluation metric for this challenge
-
+ 
 Note: Public and private split is 20:80 where first 44 days in public and next 169 days in private.
+
+Use the Dataset provide above for the challenge.
+Push your code once you have done and reviewed it.
+
 
