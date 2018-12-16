@@ -14,4 +14,5 @@ Note: Public and private split is 20:80 where first 44 days in public and next 1
 Use the Dataset provide above for the challenge.
 Push your code and the solutions, once you have done and reviewed it.
 
-
+#Sample Prediction plot.
+![Sample Prediction Plot](https://github.com/Hermit-Labs-Pvt-Ltd/CodingChallenge2018/blob/master/Sample_Prediction_Plot.png)
